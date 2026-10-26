@@ -1,0 +1,15 @@
+# Mantém código e documentação consistentes entre Windows e outros sistemas.
+* text=auto
+*.py text eol=lf
+*.pyw text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.cmd text eol=crlf
+
+# Os registros de teste precisam preservar exatamente os bytes e as quebras de linha.
+*.rem -text
+*.ret -text
+samples/bancos/*.txt -text
+*.png binary
+*.zip binary

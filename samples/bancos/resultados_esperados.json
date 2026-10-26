@@ -1,0 +1,292 @@
+[
+    {
+        "arquivo": "itau_remessa_base.rem",
+        "banco": "341",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "itau_retorno_base.ret",
+        "banco": "341",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "itau_erro_data.rem",
+        "banco": "341",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "itau_erro_sequencia.rem",
+        "banco": "341",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "itau_erro_truncado.rem",
+        "banco": "341",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "itau_sem_trailer.rem",
+        "banco": "341",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "bradesco_remessa_base.rem",
+        "banco": "237",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "bradesco_retorno_base.ret",
+        "banco": "237",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "bradesco_erro_data.rem",
+        "banco": "237",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "bradesco_erro_sequencia.rem",
+        "banco": "237",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "bradesco_erro_truncado.rem",
+        "banco": "237",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "bradesco_sem_trailer.rem",
+        "banco": "237",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "santander_remessa_base.rem",
+        "banco": "033",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "santander_retorno_base.ret",
+        "banco": "033",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "santander_erro_data.rem",
+        "banco": "033",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "santander_erro_sequencia.rem",
+        "banco": "033",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "santander_erro_truncado.rem",
+        "banco": "033",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "santander_sem_trailer.rem",
+        "banco": "033",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "banco_do_brasil_remessa_base.rem",
+        "banco": "001",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "banco_do_brasil_erro_data.rem",
+        "banco": "001",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "banco_do_brasil_erro_sequencia.rem",
+        "banco": "001",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "banco_do_brasil_erro_truncado.rem",
+        "banco": "001",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "banco_do_brasil_sem_trailer.rem",
+        "banco": "001",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "sicoob_remessa_base.rem",
+        "banco": "756",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "sicoob_retorno_base.ret",
+        "banco": "756",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "sicoob_erro_data.rem",
+        "banco": "756",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "sicoob_erro_sequencia.rem",
+        "banco": "756",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "sicoob_erro_truncado.rem",
+        "banco": "756",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "sicoob_sem_trailer.rem",
+        "banco": "756",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "caixa_remessa_base.rem",
+        "banco": "104",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "caixa_retorno_base.ret",
+        "banco": "104",
+        "situacao": "Validação incompleta",
+        "campos_erros": []
+    },
+    {
+        "arquivo": "caixa_erro_data.rem",
+        "banco": "104",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "vencimento"
+        ]
+    },
+    {
+        "arquivo": "caixa_erro_sequencia.rem",
+        "banco": "104",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "sequencia"
+        ]
+    },
+    {
+        "arquivo": "caixa_erro_truncado.rem",
+        "banco": "104",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "registro"
+        ]
+    },
+    {
+        "arquivo": "caixa_sem_trailer.rem",
+        "banco": "104",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "trailer"
+        ]
+    },
+    {
+        "arquivo": "santander_erro_total.rem",
+        "banco": "033",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "valor_total"
+        ]
+    },
+    {
+        "arquivo": "itau_erro_total.ret",
+        "banco": "341",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "valor_total"
+        ]
+    },
+    {
+        "arquivo": "sicoob_erro_quantidade.ret",
+        "banco": "756",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "quantidade_detalhes"
+        ]
+    },
+    {
+        "arquivo": "arquivo_vazio.txt",
+        "banco": "",
+        "situacao": "Inválido",
+        "campos_erros": [
+            "arquivo"
+        ]
+    }
+]

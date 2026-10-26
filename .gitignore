@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+erro_desktop.log
+
+# Arquivos locais, credenciais e saídas geradas durante o uso.
+.env
+.env.*
+!.env.example
+*.log
+/relatorios/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+build/
+dist/
+
+# Os manuais são consultados nos links oficiais documentados pelo projeto.
+/docs/*.pdf
+/docs/*.xls
+/docs/*.xlsx

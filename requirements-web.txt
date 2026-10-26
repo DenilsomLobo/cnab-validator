@@ -1,0 +1,2 @@
+# Dependência opcional para executar a interface web anterior.
+streamlit==1.66.1
